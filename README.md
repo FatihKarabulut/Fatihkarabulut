@@ -20,15 +20,15 @@
 
 ## 📌 Featured Projects
 
-<p align="left">
-  [![FullList](https://img.shields.io/badge/FullList-Library-blue?style=for-the-badge)](https://github.com/FatihKarabulut/FullList)
-  [![GeoServicePipeline](https://img.shields.io/badge/GeoServicePipeline-API-green?style=for-the-badge)](https://github.com/FatihKarabulut/GeoServicePipeline)
-  [![PostalCodeService](https://img.shields.io/badge/PostalCodeService-API-orange?style=for-the-badge)](https://github.com/FatihKarabulut/PostalCodeService)
-  [![GeoNamesAPI](https://img.shields.io/badge/GeoNamesAPI-API-red?style=for-the-badge)](https://github.com/FatihKarabulut/GeonamesApi)
-  [![WeatherCityAPI](https://img.shields.io/badge/WeatherCityAPI-API-lightblue?style=for-the-badge)](https://github.com/FatihKarabulut/WeatherCityApi)
-  [![ToptanProduct](https://img.shields.io/badge/ToptanProduct-Backend-purple?style=for-the-badge)](https://github.com/FatihKarabulut/Toptanproduct)
-  [![CafeRestaurant](https://img.shields.io/badge/CafeRestaurant-Backend-darkgreen?style=for-the-badge)](https://github.com/FatihKarabulut/cafe-restaurant)
-</p>
+[![FullList](https://img.shields.io/badge/FullList-Library-blue?style=for-the-badge)](https://github.com/FatihKarabulut/FullList)  
+[![GeoServicePipeline](https://img.shields.io/badge/GeoServicePipeline-API-green?style=for-the-badge)](https://github.com/FatihKarabulut/GeoServicePipeline)  
+
+[![PostalCodeService](https://img.shields.io/badge/PostalCodeService-API-orange?style=for-the-badge)](https://github.com/FatihKarabulut/PostalCodeService)  
+[![GeoNamesAPI](https://img.shields.io/badge/GeoNamesAPI-API-red?style=for-the-badge)](https://github.com/FatihKarabulut/GeonamesApi)  
+
+[![WeatherCityAPI](https://img.shields.io/badge/WeatherCityAPI-API-lightblue?style=for-the-badge)](https://github.com/FatihKarabulut/WeatherCityApi)  
+[![ToptanProduct](https://img.shields.io/badge/ToptanProduct-Backend-purple?style=for-the-badge)](https://github.com/FatihKarabulut/Toptanproduct)  
+[![CafeRestaurant](https://img.shields.io/badge/CafeRestaurant-Backend-darkgreen?style=for-the-badge)](https://github.com/FatihKarabulut/cafe-restaurant)
 
 ---
 

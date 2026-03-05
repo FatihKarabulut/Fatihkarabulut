@@ -2,8 +2,9 @@
 
 <h3 align="center">
 💻 Backend & Android Developer <br>
-🚀 REST APIs | Mobile Development 
+🚀 REST APIs | Mobile Development
 </h3>
+
 ---
 
 ## ⚡ Technologies & Tools
@@ -15,48 +16,29 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+---
 
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
-[![FullList](https://img.shields.io/badge/FullList-Library-blue?style=for-the-badge)](https://github.com/FatihKarabulut/FullList)
-[![GeoServicePipeline](https://img.shields.io/badge/GeoServicePipeline-API-green?style=for-the-badge)](https://github.com/FatihKarabulut/GeoServicePipeline)
-
-### 🔹 PostalCodeService
-
-REST API service for postal code data queries.
-https://github.com/FatihKarabulut/PostalCodeService
-
-### 🔹 GeoNames API
-
-Location data service built using GeoNames API.
-https://github.com/FatihKarabulut/GeonamesApi
-
-### 🔹 Weather City API
-
-Backend API that provides weather information by city.
-https://github.com/FatihKarabulut/WeatherCityApi
-
-### 🔹 ToptanProduct
-
-Backend service for wholesale product management.
-https://github.com/FatihKarabulut/Toptanproduct
-
-### 🔹 Cafe Restaurant Management
-
-Node.js backend project for cafe/restaurant product management.
-https://github.com/FatihKarabulut/cafe-restaurant
+<p align="left">
+  [![FullList](https://img.shields.io/badge/FullList-Library-blue?style=for-the-badge)](https://github.com/FatihKarabulut/FullList)
+  [![GeoServicePipeline](https://img.shields.io/badge/GeoServicePipeline-API-green?style=for-the-badge)](https://github.com/FatihKarabulut/GeoServicePipeline)
+  [![PostalCodeService](https://img.shields.io/badge/PostalCodeService-API-orange?style=for-the-badge)](https://github.com/FatihKarabulut/PostalCodeService)
+  [![GeoNamesAPI](https://img.shields.io/badge/GeoNamesAPI-API-red?style=for-the-badge)](https://github.com/FatihKarabulut/GeonamesApi)
+  [![WeatherCityAPI](https://img.shields.io/badge/WeatherCityAPI-API-lightblue?style=for-the-badge)](https://github.com/FatihKarabulut/WeatherCityApi)
+  [![ToptanProduct](https://img.shields.io/badge/ToptanProduct-Backend-purple?style=for-the-badge)](https://github.com/FatihKarabulut/Toptanproduct)
+  [![CafeRestaurant](https://img.shields.io/badge/CafeRestaurant-Backend-darkgreen?style=for-the-badge)](https://github.com/FatihKarabulut/cafe-restaurant)
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-![Fatih's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FatihKarabulut&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FatihKarabulut&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FatihKarabulut&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FatihKarabulut&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-⭐ Always learning new backend technologies
+⭐ Always learning new backend and mobile technologies

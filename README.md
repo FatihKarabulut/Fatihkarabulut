@@ -2,7 +2,7 @@
 
 <h3 align="center">
 💻 Backend & Android Developer <br>
-🚀 REST APIs | Mobile Development
+🚀 REST APIs | Mobile Development | Cyber Security
 </h3>
 
 ---
@@ -29,14 +29,30 @@
 [![ToptanProduct](https://img.shields.io/badge/ToptanProduct-Backend-purple?style=for-the-badge)](https://github.com/FatihKarabulut/Toptanproduct)  
 
 [![CafeRestaurant](https://img.shields.io/badge/CafeRestaurant-Backend-darkgreen?style=for-the-badge)](https://github.com/FatihKarabulut/cafe-restaurant-project)
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FatihKarabulut&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FatihKarabulut&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FatihKarabulut&theme=tokyonight&hide_border=true&border_radius=10" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FatihKarabulut&theme=tokyonight&hide_border=true&border_radius=10" height="165">
 </p>
+
+---
+
+## 🐍 Contribution Graph
+
+![Snake Graph](https://github.com/FatihKarabulut/github-readme-snake.svg)
+
+> ⚠️ Snake animasyonu için GitHub Action kurulumu gerekiyor:  
+> [GitHub Readme Snake Setup](https://github.com/Ileriayo/gh-profile-snake-action)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=FatihKarabulut&color=blue)
 
 ---
 

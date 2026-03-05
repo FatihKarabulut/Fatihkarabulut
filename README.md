@@ -16,24 +16,11 @@
 </p>
 
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FatihKarabulut&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihKarabulut&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165">
-</p>
----
-
 ## 📌 Featured Projects
 
-### 🔹 FullList Library
-
-Java helper library for list filtering and manipulation.
-https://github.com/FatihKarabulut/FullList
-
-### 🔹 GeoServicePipeline
-
-Backend pipeline architecture for processing geographic data services.
-https://github.com/FatihKarabulut/GeoServicePipeline
+## 📌 Featured Projects
+[![FullList](https://img.shields.io/badge/FullList-Library-blue?style=for-the-badge)](https://github.com/FatihKarabulut/FullList)
+[![GeoServicePipeline](https://img.shields.io/badge/GeoServicePipeline-API-green?style=for-the-badge)](https://github.com/FatihKarabulut/GeoServicePipeline)
 
 ### 🔹 PostalCodeService
 

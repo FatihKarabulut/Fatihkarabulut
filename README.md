@@ -57,9 +57,11 @@ https://github.com/FatihKarabulut/cafe-restaurant
 
 ## 📊 GitHub Stats
 
-![Fatih's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FatihKarabulut&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=FatihKarabulut&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165">
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FatihKarabulut&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihKarabulut&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165">
+</p>
 
 ---
 

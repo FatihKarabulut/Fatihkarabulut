@@ -43,10 +43,9 @@
 
 ## 🐍 Contribution Graph
 
-![Snake Graph](https://github.com/FatihKarabulut/github-readme-snake.svg)
+![Snake Graph](https://github.com/FatihKarabulut/FatihKarabulut/blob/main/snake.svg)
 
-> ⚠️ Snake animasyonu için GitHub Action kurulumu gerekiyor:  
-> [GitHub Readme Snake Setup](https://github.com/Ileriayo/gh-profile-snake-action)
+
 
 ---
 

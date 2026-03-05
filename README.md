@@ -41,9 +41,9 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Activity Graph
 
-![Snake Graph](https://github.com/FatihKarabulut/FatihKarabulut/blob/main/snake.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FatihKarabulut&theme=react-dark&hide_border=true)
 
 
 

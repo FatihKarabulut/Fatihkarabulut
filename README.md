@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋 I'm Fatih Karabulut</h1>
+
+<h3 align="center">
+💻 Backend & Android Developer <br>
+🚀 REST APIs | Mobile Development 
+</h3>
+---
+
 ## ⚡ Technologies & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -7,22 +15,12 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-# Hi 👋 I'm Fatih Karabulut
 
-💻 Backend & Android Developer  
-🌍 Interested in Backend Systems, REST APIs, Mobile Development 
-
----
-
-## 🚀 Technologies I Use
-
-* Java
-* Spring Boot
-* Node.js
-* PostgreSQL
-* REST API Development
-* Git & GitHub
-
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=FatihKarabulut&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihKarabulut&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165">
+</p>
 ---
 
 ## 📌 Featured Projects

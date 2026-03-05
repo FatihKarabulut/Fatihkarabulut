@@ -39,11 +39,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FatihKarabulut&theme=tokyonight&hide_border=true&border_radius=10" height="165">
 </p>
 
----
-
-## 🐍 Contributions
-
-![Fatih's GitHub contributions](https://ghchart.rshah.org/FatihKarabulut)
 
 ---
 

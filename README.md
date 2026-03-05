@@ -41,6 +41,12 @@
 
 ---
 
+## 🐍 Contributions
+
+![Fatih's GitHub contributions](https://ghchart.rshah.org/FatihKarabulut)
+
+---
+
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FatihKarabulut&theme=react-dark&hide_border=true)

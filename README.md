@@ -1,7 +1,7 @@
 # Hi 👋 I'm Fatih Karabulut
 
-💻 Backend Developer
-🌍 Interested in Backend Systems, APIs and Cyber Security
+💻 Backend & Android Developer  
+🌍 Interested in Backend Systems, REST APIs, Mobile Development 
 
 ---
 
